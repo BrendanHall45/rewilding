@@ -28,9 +28,11 @@
 - You start out in a little abandoned potting shed and you have to defeat the items in there - nails and screws, dust bunnies, peg board hooks, batteries, etc.
 - You have supportive items at your disposal - a little bit of fertilizer, bird seeds, etc.
 - Japanese-style houses have Bonsai's
-- You can have card classes - Bonsai's, Vines, Moss, Flowers, Bushes, Trees, Grass
+- You can have card classes - Bonsai's, Vines, Moss, Flowers, Bushes, Trees, Grass, Fungi
 - Planting seeds for future battles
 - Difficulty system based on setting - rural vs suburban vs city
+- Day/Night cycle within the combat
+- Watering Phase
 
 
 - You're a soil-based creature who has received a spark of life somehow
