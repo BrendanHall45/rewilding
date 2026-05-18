@@ -1,4 +1,4 @@
-# Game Ideas 5-17-26
+# Austin Gameplay Ideas
 
 ## Raw Ideas
 - ### Match takes place over a week
@@ -17,6 +17,8 @@
       - Rain to water plants and make extra wet (could be combined with sunny day)
 - ### Brendan/Allie phone call
   - Start with a wheel barrow of plants to use in the next fight
+    - Could have different pots to put the plants in that give different bonuses. 
+      - Or maybe the wheel barrow can give bonuses. a larger wheel barrow could give you an extra plant but has a debuff of some sort
   - Two resources: Sun and Water
   - Each plant has abilities (this bullet point needs to be corrected)
     - StS has two abilities, attack and block
@@ -27,4 +29,39 @@
   - You have to account for morning, noon, and evening
   - Maybe If you use all your resources, nighttime is harder to get through
     - or maybe nighttime is healing/preparing for next day?
-  -
+  
+
+## Actual gameplay
+
+### Win Condition
+  
+Percentage of the board covered
+
+### Day -> Night structure
+
+## Boards
+There are three different biomes, **Country, Suburbs, City**, each with unique boards   
+- Country
+  - Farm
+  - Fairgrounds
+  - Lake/Pond
+  - River/Stream
+  - Shed/Barn
+  - Baseball Field
+  - Elementary/Middle school
+  - 
+- Suburbs
+  - Mall
+  - Playground
+  - cul-de-sac
+  - Highways
+  - Shopping plazas
+  - Child's room
+  - High school
+- City
+  - Skyscraper
+  - College/University
+  - Parks
+  - Factories
+  - Power plant
+  - Water treatment center
