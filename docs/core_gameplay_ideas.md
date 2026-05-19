@@ -1,6 +1,8 @@
 # Austin Gameplay Ideas
 
 ## Raw Ideas
+
+- ### **WHAT IF THERE WAS A HARVEST/CRAFT STAGE AT NIGHT**
 - ### Match takes place over a week
   - Each day has phases
     - Sow
@@ -35,9 +37,34 @@
 
 ### Win Condition
   
-Percentage of the board covered
+> Percentage of the board covered or all enemies killed
 
 ### Day -> Night structure
+
+  #### Day 
+  1. use items
+  2. plant plants   
+    - if planted during the day, they have "summoning sickness" and cant act/provide benefit until next day, unless benefits are explicitly reaped during the night
+    - adhereing to individual plant's requirements
+  3. activate abilities (uses water)
+  4. "Move"/"Grow"/progress outward- plants progress through their individual stages
+  
+  #### Night
+  1. Harvest
+  2. Craft
+  3. Water
+  4. Plan/see enemy decisions/movements
+
+### Requirements/Quirks
+  - Plants can only be planted during the day/night
+  - Plants only bloom during the day/night
+  - 
+
+### Resources sun and water
+sun is attack capabilities (roughly)  
+  -sun is automatically generating  
+water is restoration/support/defence  
+  -water can me generated
 
 ## Boards
 There are three different biomes, **Country, Suburbs, City**, each with unique boards   
