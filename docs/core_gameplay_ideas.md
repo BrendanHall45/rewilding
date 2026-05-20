@@ -31,6 +31,18 @@
   - You have to account for morning, noon, and evening
   - Maybe If you use all your resources, nighttime is harder to get through
     - or maybe nighttime is healing/preparing for next day?
+### Austin idea dump
+  - what if it was like chess, and the druid was the queen?
+    - theres a grid system where druid can move and plant plants/heal/maintain
+      - what if instead of planting them, they grew off of him and he moved around.
+      - plants will start in wheel barrow and require a certain amount of resources before they can be attached to druid
+      - once attached to druid:
+        1. each plant has a unique shape that when you "end turn", a part of it overlaps with an enemy, it interacts with it
+        2. OR each plant is activated individually
+    - the plants do things like:
+      - give bonus to druid
+      - debuff enemies
+      - 
   
 
 ## Actual gameplay
@@ -92,3 +104,4 @@ There are three different biomes, **Country, Suburbs, City**, each with unique b
   - Factories
   - Power plant
   - Water treatment center
+
